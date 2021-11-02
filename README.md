@@ -5,6 +5,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ## Overview
 It was hard, but I'm getting there!
 
+## Link
+You can find the site [here](https://vgsstudio.github.io/3-column-preview-card-component-challenge-hub/)!
+
 ### The challenge
 
 Users should be able to:
